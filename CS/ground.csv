@@ -1,0 +1,18 @@
+TimeNo,BookingTime,Price,Availability
+1,7:00AM - 8:00AM,700,Unbooked
+2,8:00AM - 9:00AM,700,Unbooked
+3,9:00AM - 10:00AM,700,Unbooked
+4,10:00AM - 11:00AM,700,Unbooked
+5,11:00AM - 12:00AM,700,Booked
+6,12:00PM - 1:00PM,700,Booked
+7,1:00PM - 2:00PM,700,Unbooked
+8,2:00PM - 3:00PM,700,Unbooked
+9,3:00PM - 4:00PM,700,Unbooked
+10,4:00PM - 5:00PM,700,Unbooked
+11,5:00PM - 6:00PM,700,Unbooked
+12,6:00PM - 7:00PM,700,Unbooked
+13,7:00PM - 8:00PM,700,Unbooked
+14,8:00PM - 9:00PM,700,Unbooked
+15,9:00PM - 10:00PM,700,Unbooked
+16,10:00PM - 11:00PM,700,Unbooked
+17,11:00PM - 12:00PM,700,Unbooked
